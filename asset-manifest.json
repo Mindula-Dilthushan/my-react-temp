@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mindula-Dilthushan/my-react-temp/static/css/main.073c9b0a.css",
+    "main.js": "/Mindula-Dilthushan/my-react-temp/static/js/main.5ba8a354.js",
+    "static/js/787.ce4c3dd8.chunk.js": "/Mindula-Dilthushan/my-react-temp/static/js/787.ce4c3dd8.chunk.js",
+    "static/media/logo.svg": "/Mindula-Dilthushan/my-react-temp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mindula-Dilthushan/my-react-temp/index.html",
+    "main.073c9b0a.css.map": "/Mindula-Dilthushan/my-react-temp/static/css/main.073c9b0a.css.map",
+    "main.5ba8a354.js.map": "/Mindula-Dilthushan/my-react-temp/static/js/main.5ba8a354.js.map",
+    "787.ce4c3dd8.chunk.js.map": "/Mindula-Dilthushan/my-react-temp/static/js/787.ce4c3dd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5ba8a354.js"
+  ]
+}
